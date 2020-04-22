@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSystemVitvitskiy", "FileSystemVitvitskiy\FileSystemVitvitskiy.csproj", "{54BD3B47-F2F8-4581-B28C-971BB2E93641}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSystemVitvitskiy2", "FileSystemVitvitskiy\FileSystemVitvitskiy2\FileSystemVitvitskiy2.csproj", "{604D6596-7202-4321-813D-A8EF97F94BF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54BD3B47-F2F8-4581-B28C-971BB2E93641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54BD3B47-F2F8-4581-B28C-971BB2E93641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54BD3B47-F2F8-4581-B28C-971BB2E93641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54BD3B47-F2F8-4581-B28C-971BB2E93641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{604D6596-7202-4321-813D-A8EF97F94BF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{604D6596-7202-4321-813D-A8EF97F94BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{604D6596-7202-4321-813D-A8EF97F94BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{604D6596-7202-4321-813D-A8EF97F94BF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3D4DB51-54D0-43F2-95CF-7276056EB0FF}
+	EndGlobalSection
+EndGlobal
